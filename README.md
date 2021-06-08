@@ -1,2 +1,2 @@
 # Countdown
-Ein Programm das auf Null Zählt
+A Program which counts to zero for a rocket start.
